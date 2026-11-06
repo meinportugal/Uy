@@ -1,0 +1,316 @@
+{
+  "checked": "2026-11-06",
+  "registry_as_of": "2026-09-30",
+  "registry": "https://www.anv.gub.uy/sites/default/files/2026-10/PROYECTOS_PROMOVIDOS_AL_20260930.xlsx",
+  "geolayer": "https://sit.mvot.gub.uy/arcgis/rest/services/05_MVOT/HABITAT_Y_VIVIENDA/MapServer/23",
+  "projects": [
+    {
+      "name": "Vivo Life Rivera",
+      "evidence": {
+        "id": 1680,
+        "date": "09/12/2024",
+        "company": "FIDEICOMISO 421 / 2024",
+        "address": "Av.Gral Rivera 2013",
+        "padron": 432312,
+        "homes": 111,
+        "garages": 57,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "HUB by Block",
+      "evidence": {
+        "id": 1683,
+        "date": "13/01/2025",
+        "company": "BENAFIX S.A.",
+        "address": "Colonia 2023",
+        "padron": 21145,
+        "homes": 98,
+        "garages": 50,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "DOO Bravo",
+      "evidence": {
+        "id": 1585,
+        "date": "05/05/2025",
+        "company": "ZERBEY S.A.",
+        "address": "Maldonado 1787 - 1791 - 1795 - 1797",
+        "padron": 432316,
+        "homes": 93,
+        "garages": 49,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Rosso by Block",
+      "evidence": {
+        "id": 1842,
+        "date": "10/02/2026",
+        "company": "WASTRON SA",
+        "address": "Ana Monterroso de Lavalleja 2160,2162, 2166",
+        "padron": 432648,
+        "homes": 78,
+        "garages": 39,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Lúmina",
+      "evidence": {
+        "id": 1857,
+        "date": "30/10/2025",
+        "company": "LUMUS SAS",
+        "address": "José Enrique Rodó 1955 - 1957",
+        "padron": 432529,
+        "homes": 41,
+        "garages": 21,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Now Salterain",
+      "evidence": {
+        "id": 1725,
+        "date": "15/08/2025",
+        "company": "WISTONER SAS",
+        "address": "Dr. Joaquin de Salterain 1478/1480",
+        "padron": 432307,
+        "homes": 69,
+        "garages": 36,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Genaro Chaná",
+      "evidence": {
+        "id": 1846,
+        "date": "26/08/2026",
+        "company": "GENARO III SAS",
+        "address": "Chaná 1827",
+        "padron": 15105,
+        "homes": 40,
+        "garages": 20,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Arcadia II",
+      "evidence": {
+        "id": 2105,
+        "date": "17/04/2026",
+        "company": "BETSIBOKA SAS",
+        "address": "Requena 1526",
+        "padron": 21653,
+        "homes": 33,
+        "garages": 17,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Oblivion",
+      "evidence": {
+        "id": 2043,
+        "date": "13/02/2026",
+        "company": "EMEYEME SAS",
+        "address": "Colonia 1517",
+        "padron": 700,
+        "homes": 50,
+        "garages": 25,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "DOO Salterain II",
+      "evidence": {
+        "id": 2001,
+        "date": "06/03/2026",
+        "company": "ZAMPER S.A.",
+        "address": "Doctor Joaquín de Salterain 1483, 1487, 1489, 1493",
+        "padron": 432636,
+        "homes": 88,
+        "garages": 50,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "City Homes",
+      "evidence": {
+        "id": 1893,
+        "date": "26/06/2026",
+        "company": "SHIRINEL SAS",
+        "address": "Daniel Fernández Crespo 1664,1668,1670,1682,1676,1680",
+        "padron": 432515,
+        "homes": 158,
+        "garages": 86,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Site Charrúa",
+      "evidence": {
+        "id": 1728,
+        "date": "05/12/2025",
+        "company": "MERVALIS S.A.",
+        "address": "Charrúa 1918",
+        "padron": 15628,
+        "homes": 33,
+        "garages": 17,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Miraf Haedo 3",
+      "evidence": {
+        "id": 1900,
+        "date": "15/01/2026",
+        "company": "COLTAREN S.A.",
+        "address": "Eduardo Víctor Haedo 1989",
+        "padron": 14484,
+        "homes": 26,
+        "garages": 13,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Gala Rock",
+      "evidence": {
+        "id": 1325,
+        "date": "19/05/2023",
+        "company": "CAPOMAR SOCIEDAD ANONIMA",
+        "address": "Eduardo Victor Haedo 2124",
+        "padron": 431925,
+        "homes": 146,
+        "garages": 78,
+        "individual_garages": 0,
+        "zone": "C01"
+      }
+    },
+    {
+      "name": "Nouveau Roxlo",
+      "evidence": {
+        "id": 2062,
+        "date": "06/04/2026",
+        "company": "NOUVEAU ROXLO SAS",
+        "address": "los Roxlo 1336/1332",
+        "padron": 432626,
+        "homes": 69,
+        "garages": 35,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Rimet 1930",
+      "evidence": {
+        "id": 1671,
+        "date": "19/02/2025",
+        "company": "RIMET 1930 SAS",
+        "address": "Coronel Brandzen 1930",
+        "padron": 14842,
+        "homes": 36,
+        "garages": 16,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Delta Blanes",
+      "evidence": {
+        "id": 1839,
+        "date": "13/02/2026",
+        "company": "ROSA NORTE SAS",
+        "address": "José Enrique Rodo 2047-2049",
+        "padron": 432634,
+        "homes": 38,
+        "garages": 19,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Ágora Constituyente",
+      "evidence": {
+        "id": 1980,
+        "date": "16/01/2026",
+        "company": "EDIFICIO AGORA CONSTITUYENTE SAS",
+        "address": "CONSTITUYENTE 1733",
+        "padron": 1189,
+        "homes": 55,
+        "garages": 28,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Dröm Acevedo",
+      "evidence": {
+        "id": 1794,
+        "date": "10/09/2025",
+        "company": "SEMILLAS DEL SOL SA",
+        "address": "Acevedo Díaz 1520",
+        "padron": 21721,
+        "homes": 46,
+        "garages": 23,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Ventura Uptown",
+      "evidence": {
+        "id": 1549,
+        "date": "28/06/2024",
+        "company": "RODINSUR S.A.",
+        "address": "José Enrique Rodó 2164, 2167bis, 2167, 2169 y 2171",
+        "padron": 432080,
+        "homes": 106,
+        "garages": 56,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Nostrum Uruguay Centro",
+      "evidence": {
+        "id": 1906,
+        "date": "13/02/2026",
+        "company": "FIDEICOMISO 1655 / 2025",
+        "address": "Av. Uruguay 1337 - 1347",
+        "padron": 430846,
+        "homes": 75,
+        "garages": 38,
+        "individual_garages": 0,
+        "zone": ""
+      }
+    },
+    {
+      "name": "Tres Cruces Plaza",
+      "evidence": {
+        "id": 1685,
+        "date": "05/02/2025",
+        "company": "FIDEICOMISO 55702/2023",
+        "address": "Miguelete 2120, Defensa 1944",
+        "padron": 432306,
+        "homes": 85,
+        "garages": 47,
+        "individual_garages": 10,
+        "zone": ""
+      }
+    }
+  ]
+}

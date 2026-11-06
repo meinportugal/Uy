@@ -1,0 +1,1304 @@
+window.PROJECTS = [
+  {
+    "id": 1,
+    "name": "Vivo Life Rivera",
+    "slug": "vivo-life-rivera",
+    "address": "Av. Gral. Rivera 2013",
+    "area": "Cordón",
+    "prices": [
+      109000,
+      120000,
+      170500
+    ],
+    "garage": 18000,
+    "date": "05.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4,5%",
+    "notes": "",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/vivo-life-rivera",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Застройщик",
+        "url": "https://www.vivolife.uy/property-item/vivo-life-rivera/",
+        "check": "Ссылка из исходного чата; доступность не подтверждена"
+      },
+      {
+        "label": "Квартира №111, 1 спальня",
+        "url": "https://prop.com.uy/propiedades/venta-de-apartamento-de-1-dormitorio-en-vivo-life-rivera-cordon-p002643",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Квартира №101, 2 спальни",
+        "url": "https://prop.com.uy/propiedades/venta-de-apartamento-de-2-dormitorios-en-vivo-life-rivera-cordon-p002644",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90195766485,
+      -56.17295534686
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1680,
+      "date": "09/12/2024",
+      "company": "FIDEICOMISO 421 / 2024",
+      "address": "Av.Gral Rivera 2013",
+      "padron": 432312,
+      "homes": 111,
+      "garages": 57,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 2,
+    "name": "DOO Aura",
+    "slug": "doo-aura",
+    "address": "Acevedo Díaz 1368",
+    "area": "Cordón",
+    "prices": [
+      0,
+      146000,
+      182000
+    ],
+    "garage": 19000,
+    "date": "06.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "Гаражи в исходной подборке указаны как опция для 2 спален; совместную покупку с 1 спальней нужно подтвердить.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/doo-aura",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.9029724,
+      -56.166467
+    ],
+    "locationSource": "Координаты продавца (ориентировочно)",
+    "evidence": null,
+    "tax": "advertised",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 3,
+    "name": "HUB by Block",
+    "slug": "hub-vmp",
+    "address": "Colonia 2023",
+    "area": "Cordón",
+    "prices": [
+      112800,
+      141100,
+      181200
+    ],
+    "garage": 18500,
+    "date": "12.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "Обновлены минимальные цены по публичной карточке: в исходном чате 1D USD 135,100, 2D USD 184,200.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/hub-vmp",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.89905584449,
+      -56.17244548662
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1683,
+      "date": "13/01/2025",
+      "company": "BENAFIX S.A.",
+      "address": "Colonia 2023",
+      "padron": 21145,
+      "homes": 98,
+      "garages": 50,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": false,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 4,
+    "name": "DOO Bravo",
+    "slug": "doo-bravo",
+    "address": "Maldonado 1797",
+    "area": "Cordón",
+    "prices": [
+      0,
+      142500,
+      172000
+    ],
+    "garage": 18000,
+    "date": "03.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "Отдельное объявление №401 в исходном чате стоило USD 138 500, тогда как минимальная цена проекта USD 142 500. Это разные предложения; цену №401 нужно переподтвердить.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/doo-bravo",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Квартира №401, 1 спальня",
+        "url": "https://prop.com.uy/propiedades/venta-de-apartamento-de-1-dormitorio-en-doo-bravo-cordon-p002587",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90835481459,
+      -56.17634135495
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1585,
+      "date": "05/05/2025",
+      "company": "ZERBEY S.A.",
+      "address": "Maldonado 1787 - 1791 - 1795 - 1797",
+      "padron": 432316,
+      "homes": 93,
+      "garages": 49,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 5,
+    "name": "Rosso by Block",
+    "slug": "rosso",
+    "address": "Ana Monterroso de Lavalleja 2162",
+    "area": "Cordón",
+    "prices": [
+      0,
+      140900,
+      164900
+    ],
+    "garage": 19500,
+    "date": "03.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "Обновлены минимальные цены по публичной карточке: в исходном чате 2D USD 167,900.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/rosso",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90031200846,
+      -56.16769679144
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1842,
+      "date": "10/02/2026",
+      "company": "WASTRON SA",
+      "address": "Ana Monterroso de Lavalleja 2160,2162, 2166",
+      "padron": 432648,
+      "homes": 78,
+      "garages": 39,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 6,
+    "name": "Lúmina",
+    "slug": "lumina",
+    "address": "José Enrique Rodó 1955",
+    "area": "Cordón",
+    "prices": [
+      110500,
+      139800,
+      177300
+    ],
+    "garage": 23000,
+    "date": "04.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4% · + 0,25% de fondo de reserva.",
+    "notes": "В актуальном заголовке PROP нет отметки Vivienda Promovida. Официальный проект по этому адресу найден: это подтверждает статус проекта, но не каждой предлагаемой квартиры.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/lumina",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90343789218,
+      -56.17461797437
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1857,
+      "date": "30/10/2025",
+      "company": "LUMUS SAS",
+      "address": "José Enrique Rodó 1955 - 1957",
+      "padron": 432529,
+      "homes": 41,
+      "garages": 21,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 7,
+    "name": "Now Salterain",
+    "slug": "now-salterain",
+    "address": "Joaquín de Salterain 1480",
+    "area": "Cordón",
+    "prices": [
+      108500,
+      134000,
+      179000
+    ],
+    "garage": 21000,
+    "date": "06.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4,5% · + 0,25% de fondo de reserva.",
+    "notes": "",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/now-salterain",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90147410078,
+      -56.1701169882
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1725,
+      "date": "15/08/2025",
+      "company": "WISTONER SAS",
+      "address": "Dr. Joaquin de Salterain 1478/1480",
+      "padron": 432307,
+      "homes": 69,
+      "garages": 36,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 8,
+    "name": "Genaro Chaná",
+    "slug": "genaro-chana",
+    "address": "Chaná 1827",
+    "area": "Cordón",
+    "prices": [
+      110000,
+      120500,
+      0
+    ],
+    "garage": 22000,
+    "date": "06.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "В исходной подборке квартиры с 2 спальнями были распроданы; актуального предложения 2D в карточке нет.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/genaro-chana",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90509620991,
+      -56.17632976176
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1846,
+      "date": "26/08/2026",
+      "company": "GENARO III SAS",
+      "address": "Chaná 1827",
+      "padron": 15105,
+      "homes": 40,
+      "garages": 20,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 9,
+    "name": "Arcadia II",
+    "slug": "arcadia-ii",
+    "address": "Joaquín Requena 1526",
+    "area": "Cordón",
+    "prices": [
+      106020,
+      120650,
+      213750
+    ],
+    "garage": 16400,
+    "date": "06.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "Уточнить по договору",
+    "notes": "В исходных источниках встречались июнь и июль 2028. PROP сейчас указывает июнь. Цена при оплате наличными; расходы на заселение включены.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/arcadia-ii",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90015735586,
+      -56.16919199346
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 2105,
+      "date": "17/04/2026",
+      "company": "BETSIBOKA SAS",
+      "address": "Requena 1526",
+      "padron": 21653,
+      "homes": 33,
+      "garages": 17,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 10,
+    "name": "Oblivion",
+    "slug": "oblivion",
+    "address": "Colonia 1517",
+    "area": "Cordón",
+    "prices": [
+      96995,
+      116000,
+      191900
+    ],
+    "garage": 19989,
+    "date": "07.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "Incluidos en el precio · Sin gastos de ocupación.",
+    "notes": "Расходы на заселение включены по карточке PROP.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/oblivion",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90356178689,
+      -56.18370082727
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 2043,
+      "date": "13/02/2026",
+      "company": "EMEYEME SAS",
+      "address": "Colonia 1517",
+      "padron": 700,
+      "homes": 50,
+      "garages": 25,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 11,
+    "name": "DOO Salterain II",
+    "slug": "doo-salterain-ii",
+    "address": "Joaquín de Salterain 1487",
+    "area": "Cordón",
+    "prices": [
+      0,
+      124000,
+      161000
+    ],
+    "garage": 15000,
+    "date": "10.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/doo-salterain-ii",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90155018725,
+      -56.17063767292
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 2001,
+      "date": "06/03/2026",
+      "company": "ZAMPER S.A.",
+      "address": "Doctor Joaquín de Salterain 1483, 1487, 1489, 1493",
+      "padron": 432636,
+      "homes": 88,
+      "garages": 50,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 12,
+    "name": "City Homes",
+    "slug": "city-homes",
+    "address": "Fernández Crespo 1664–1676, esq. Av. Uruguay",
+    "area": "Cordón",
+    "prices": [
+      84039,
+      112161,
+      153145
+    ],
+    "garage": 20000,
+    "date": "11.2028",
+    "stage": "Предпродажа (en pozo)",
+    "expenses": "4%",
+    "notes": "В исходной подборке были расхождения сроков. Сейчас PROP указывает ноябрь 2028.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/city-homes",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.89931573715,
+      -56.17643932346
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1893,
+      "date": "26/06/2026",
+      "company": "SHIRINEL SAS",
+      "address": "Daniel Fernández Crespo 1664,1668,1670,1682,1676,1680",
+      "padron": 432515,
+      "homes": 158,
+      "garages": 86,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 13,
+    "name": "Dröm Rivera",
+    "slug": "drom-rivera",
+    "address": "Av. Gral. Rivera 1926",
+    "area": "Cordón",
+    "prices": [
+      94000,
+      123800,
+      157730
+    ],
+    "garage": 22500,
+    "date": "12.2028",
+    "stage": "Предпродажа (en pozo)",
+    "expenses": "4,5%",
+    "notes": "В исходной подборке были расхождения сроков. Сейчас PROP указывает декабрь 2028. Обновлены минимальные цены по публичной карточке: в исходном чате 1D USD 119,370, 2D USD 155,100.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/drom-rivera",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.9020208,
+      -56.1745105
+    ],
+    "locationSource": "Координаты продавца (ориентировочно)",
+    "evidence": null,
+    "tax": "advertised",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 14,
+    "name": "Site Charrúa",
+    "slug": "site-charrua",
+    "address": "Charrúa 1918–1920, esq. Jackson",
+    "area": "Cordón",
+    "prices": [
+      89900,
+      123800,
+      0
+    ],
+    "garage": 19000,
+    "date": "06.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "",
+    "notes": "Минимальные цены: 90% при подписании compromiso и 10% при передаче.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/site-charrua",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Продажи Mamba",
+        "url": "https://www.mambapropiedades.uy/pt/obra-nueva/site-charrua",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90650611017,
+      -56.17400464394
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1728,
+      "date": "05/12/2025",
+      "company": "MERVALIS S.A.",
+      "address": "Charrúa 1918",
+      "padron": 15628,
+      "homes": 33,
+      "garages": 17,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 15,
+    "name": "Miraf Haedo 3",
+    "slug": "miraf-haedo-3",
+    "address": "Eduardo Víctor Haedo 1989",
+    "area": "Cordón",
+    "prices": [
+      101900,
+      124900,
+      0
+    ],
+    "garage": 19000,
+    "date": "08.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "26 квартир (студии и 1 спальня), 13 парковочных мест. Оплата contado. PROP и Justo Acá: август 2027; в каталоге Miraf у PROP встречается июль 2027. Не путать с Miraf Haedo и Haedo 2.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/miraf-haedo-3",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Продажи Mamba",
+        "url": "https://www.mambapropiedades.uy/obra-nueva/miraf-haedo-3",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Квартира №503",
+        "url": "https://www.justoaca.com/propiedad/miraf-4-principal-503",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.89883743327,
+      -56.17439837938
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1900,
+      "date": "15/01/2026",
+      "company": "COLTAREN S.A.",
+      "address": "Eduardo Víctor Haedo 1989",
+      "padron": 14484,
+      "homes": 26,
+      "garages": 13,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 16,
+    "name": "Gala Rock",
+    "slug": "gala-beat",
+    "address": "Eduardo Víctor Haedo 2124",
+    "area": "Cordón",
+    "prices": [
+      102739,
+      127497,
+      176358
+    ],
+    "garage": 18540,
+    "date": "08.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "3%",
+    "notes": "Страница Gala Rock использует технический адрес /gala-beat; это не отдельный дополнительный проект.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/gala-beat",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Объявление 2 спальни",
+        "url": "https://montevideo.estate/es/montevideo/venta-de-apartamento-dormitorios-1775011",
+        "check": "Ссылка из исходного чата; доступность не подтверждена"
+      }
+    ],
+    "location": [
+      -34.89794664802,
+      -56.17168635925
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1325,
+      "date": "19/05/2023",
+      "company": "CAPOMAR SOCIEDAD ANONIMA",
+      "address": "Eduardo Victor Haedo 2124",
+      "padron": 431925,
+      "homes": 146,
+      "garages": 78,
+      "individual_garages": 0,
+      "zone": "C01"
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 17,
+    "name": "Nostrum Cordón",
+    "slug": "nostrum-cordon",
+    "address": "Dr. Pablo de María 1507, между 18 de Julio и Brandzen",
+    "area": "Cordón",
+    "prices": [
+      112667,
+      142003,
+      172566
+    ],
+    "garage": null,
+    "date": "09.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "Обновлены минимальные цены по публичной карточке: в исходном чате 1D USD 138,870.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/nostrum-cordon",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Застройщик Altius",
+        "url": "https://altius.com.uy/proyecto/nostrum-cordon/",
+        "check": "Ссылка из исходного чата; доступность не подтверждена"
+      },
+      {
+        "label": "Продажи New Estate",
+        "url": "https://www.duranestate.com/es/proyectos/nostrum-cordon/",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.9010743,
+      -56.1724567
+    ],
+    "locationSource": "Координаты продавца (ориентировочно)",
+    "evidence": null,
+    "tax": "advertised",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": false,
+    "dateVerified": true
+  },
+  {
+    "id": 18,
+    "name": "Nouveau Roxlo",
+    "slug": "nouveau-roxlo",
+    "address": "Carlos Roxlo 1332–1336",
+    "area": "Cordón",
+    "prices": [
+      0,
+      117325,
+      0
+    ],
+    "garage": 16150,
+    "date": "06.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/nouveau-roxlo",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Продажи Mamba",
+        "url": "https://www.mambapropiedades.uy/obra-nueva/nouveau-roxlo",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90520302178,
+      -56.18084539266
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 2062,
+      "date": "06/04/2026",
+      "company": "NOUVEAU ROXLO SAS",
+      "address": "los Roxlo 1336/1332",
+      "padron": 432626,
+      "homes": 69,
+      "garages": 35,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 19,
+    "name": "Rimet 1930",
+    "slug": "rimet-1930",
+    "address": "Coronel Brandzen 1930",
+    "area": "Cordón",
+    "prices": [
+      0,
+      122000,
+      0
+    ],
+    "garage": 24000,
+    "date": "07.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "5%",
+    "notes": "",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/rimet-1930",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Объявление InfoCasas",
+        "url": "https://www.infocasas.com.uy/venta-de-apartamento-con-1-dormitorio-y-terraza-en-cordon-sur/194090174",
+        "check": "Ссылка из исходного чата; доступность не подтверждена"
+      }
+    ],
+    "location": [
+      -34.90179693715,
+      -56.17422944905
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1671,
+      "date": "19/02/2025",
+      "company": "RIMET 1930 SAS",
+      "address": "Coronel Brandzen 1930",
+      "padron": 14842,
+      "homes": 36,
+      "garages": 16,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 20,
+    "name": "Delta Blanes",
+    "slug": "delta-blanes",
+    "address": "José Enrique Rodó 2047–2049, esq. Blanes",
+    "area": "Cordón",
+    "prices": [
+      0,
+      127680,
+      167040
+    ],
+    "garage": 21000,
+    "date": "04.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4% · + 0,25% de fondo de reserva.",
+    "notes": "",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/delta-blanes",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Объявление InfoCasas",
+        "url": "https://www.infocasas.com.uy/venta-de-apartamento-de-2-dormitorios-en-delta-blanes-cordon/194131982",
+        "check": "Ссылка из исходного чата; доступность не подтверждена"
+      }
+    ],
+    "location": [
+      -34.90323319209,
+      -56.17259096844
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1839,
+      "date": "13/02/2026",
+      "company": "ROSA NORTE SAS",
+      "address": "José Enrique Rodo 2047-2049",
+      "padron": 432634,
+      "homes": 38,
+      "garages": 19,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 21,
+    "name": "Ágora Constituyente",
+    "slug": "agora-constituyente",
+    "address": "Constituyente 1733",
+    "area": "Cordón",
+    "prices": [
+      0,
+      128235,
+      0
+    ],
+    "garage": null,
+    "date": "08.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": " Срок август 2027 сохранён из исходной подборки; на прочитанной странице INGAR дата не опубликована. Цены INGAR по списку октября 2026.",
+    "links": [
+      {
+        "label": "Квартиры и цены INGAR",
+        "url": "https://ingar.com.uy/proyecto/agora-constituyente",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Продажи Mamba",
+        "url": "https://www.mambapropiedades.uy/obra-nueva/agora-constituyente",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90608191899,
+      -56.17890687171
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1980,
+      "date": "16/01/2026",
+      "company": "EDIFICIO AGORA CONSTITUYENTE SAS",
+      "address": "CONSTITUYENTE 1733",
+      "padron": 1189,
+      "homes": 55,
+      "garages": 28,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": false,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": false,
+    "dateVerified": false
+  },
+  {
+    "id": 22,
+    "name": "Dröm Acevedo",
+    "slug": "drom-acevedo",
+    "address": "Acevedo Díaz 1520",
+    "area": "Cordón",
+    "prices": [
+      0,
+      129900,
+      179920
+    ],
+    "garage": null,
+    "date": "12.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "Обновлены минимальные цены по публичной карточке: в исходном чате 1D USD 128,900.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/drom-acevedo",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Продажи Mamba",
+        "url": "https://www.mambapropiedades.uy/obra-nueva/drom-acevedo",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.89955341912,
+      -56.16649581689
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1794,
+      "date": "10/09/2025",
+      "company": "SEMILLAS DEL SOL SA",
+      "address": "Acevedo Díaz 1520",
+      "padron": 21721,
+      "homes": 46,
+      "garages": 23,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": false,
+    "dateVerified": true
+  },
+  {
+    "id": 23,
+    "name": "Ventura Uptown",
+    "slug": "ventura-uptown",
+    "address": "José Enrique Rodó 2167, esq. Requena",
+    "area": "Cordón",
+    "prices": [
+      126900,
+      169400,
+      189900
+    ],
+    "garage": 20000,
+    "date": "10.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/ventura-uptown",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Застройщик Ventura",
+        "url": "https://www.ventura.com.uy/Ventura%20Uptown",
+        "check": "Ссылка из исходного чата; доступность не подтверждена"
+      }
+    ],
+    "location": [
+      -34.90290359307,
+      -56.16969296108
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1549,
+      "date": "28/06/2024",
+      "company": "RODINSUR S.A.",
+      "address": "José Enrique Rodó 2164, 2167bis, 2167, 2169 y 2171",
+      "padron": 432080,
+      "homes": 106,
+      "garages": 56,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 24,
+    "name": "Blend Soho",
+    "slug": "blend-soho",
+    "address": "Maldonado, esq. Yaro",
+    "area": "Cordón / граница Palermo",
+    "prices": [
+      110900,
+      157900,
+      252900
+    ],
+    "garage": 28500,
+    "date": "05.2028",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "Граница Cordón/Palermo. В карточке PROP разработчик обозначен как Ventura, исходная подборка также ссылалась на Kopel Sánchez; юридического продавца и актуальный бренд следует сверить по договору.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/blend-soho",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Застройщик Kopel Sánchez",
+        "url": "https://ks.com.uy/desarrollo/blendsoho/",
+        "check": "Ссылка из исходного чата; доступность не подтверждена"
+      }
+    ],
+    "location": [
+      -34.9085866,
+      -56.1760765
+    ],
+    "locationSource": "Координаты продавца (ориентировочно)",
+    "evidence": null,
+    "tax": "advertised",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 25,
+    "name": "Tribeca by Block",
+    "slug": "tribeca-sa9",
+    "address": "Minas 1372–1376, esq. José E. Rodó",
+    "area": "Cordón",
+    "prices": [
+      103000,
+      129000,
+      175100
+    ],
+    "garage": 19500,
+    "date": "03.2029",
+    "stage": "Предпродажа (en pozo)",
+    "expenses": "4%",
+    "notes": "",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/tribeca-sa9",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Продажи INGAR",
+        "url": "https://ingar.com.uy/proyecto/tribeca-msxhwfqbpfpg",
+        "check": "Прочитана 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.9050808,
+      -56.1796435
+    ],
+    "locationSource": "Координаты продавца (ориентировочно)",
+    "evidence": null,
+    "tax": "advertised",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  },
+  {
+    "id": 26,
+    "name": "Nostrum Uruguay Centro",
+    "slug": "nostrum-uruguay",
+    "address": "Av. Uruguay 1337–1347, esq. Ejido",
+    "area": "Centro",
+    "prices": [
+      102357,
+      125364,
+      157331
+    ],
+    "garage": null,
+    "date": "11.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "4%",
+    "notes": "Сроки расходятся: PROP — ноябрь 2027; INGAR — декабрь 2027; New Estate — январь 2028. Altius публикует 1D от USD 114 868, PROP — от USD 125 364, INGAR — от USD 126 502; сравнить квартиру и схему платежей. Публичное наличие не равно подтверждённой брони.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/nostrum-uruguay",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Застройщик Altius, 1D",
+        "url": "https://altius.com.uy/proyecto/nostrum-uruguay-1d/",
+        "check": "Прочитана в веб-поиске 06.11.2026"
+      },
+      {
+        "label": "Квартиры INGAR",
+        "url": "https://ingar.com.uy/proyecto/nostrum-uruguay",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Продажи New Estate",
+        "url": "https://www.duranestate.com/es/proyectos/nostrum-uruguay/",
+        "check": "Прочитана в веб-поиске 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.90256776728,
+      -56.18739941194
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1906,
+      "date": "13/02/2026",
+      "company": "FIDEICOMISO 1655 / 2025",
+      "address": "Av. Uruguay 1337 - 1347",
+      "padron": 430846,
+      "homes": 75,
+      "garages": 38,
+      "individual_garages": 0,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": false,
+    "dateVerified": true
+  },
+  {
+    "id": 27,
+    "name": "Tres Cruces Plaza",
+    "slug": "tres-cruces-plaza",
+    "address": "Miguelete 2120 / Defensa 1944",
+    "area": "Tres Cruces / Villa Muñoz",
+    "prices": [
+      0,
+      103424,
+      133057
+    ],
+    "garage": 17270,
+    "date": "12.2027",
+    "stage": "В строительстве (en obra)",
+    "expenses": "Incluidos en el precio · Incluidos en el costo, con conexión y fondo de garantía post obra.",
+    "notes": "Al costo / fideicomiso: первоначальный взнос 30%, далее 10 двухмесячных взносов. Опубликованная стоимость не обязательно фиксированная конечная цена. PROP: декабрь 2027; Hauzen: июль 2027. ANV относит адрес к Villa Muñoz/Retiro, продавцы — к Tres Cruces. На карте использован официальный адрес ANV.",
+    "links": [
+      {
+        "label": "Квартиры и цены PROP",
+        "url": "https://prop.com.uy/proyectos/tres-cruces-plaza",
+        "check": "Прочитана 06.11.2026"
+      },
+      {
+        "label": "Продажи Hauzen",
+        "url": "https://www.hauzen.com.uy/d/58238-Tres-Cruces-Plaza-en-Tres-Cruces",
+        "check": "Прочитана в веб-поиске 06.11.2026"
+      }
+    ],
+    "location": [
+      -34.89263475864,
+      -56.1738739895
+    ],
+    "locationSource": "Геослой MVOT/ANV",
+    "evidence": {
+      "id": 1685,
+      "date": "05/02/2025",
+      "company": "FIDEICOMISO 55702/2023",
+      "address": "Miguelete 2120, Defensa 1944",
+      "padron": 432306,
+      "homes": 85,
+      "garages": 47,
+      "individual_garages": 10,
+      "zone": ""
+    },
+    "tax": "official",
+    "rentClaim": true,
+    "commercialCheck": true,
+    "checked": "06.11.2026",
+    "garageVerified": true,
+    "dateVerified": true
+  }
+];
